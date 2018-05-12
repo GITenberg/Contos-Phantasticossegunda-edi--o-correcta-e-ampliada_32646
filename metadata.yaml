@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Teófilo_Braga
     - http://pt.wikipedia.org/wiki/Teófilo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32646#Contos-Phantasticossegunda-edi--o-correcta-e-ampliada
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2010-06-01'
 gutenberg_type: Text
