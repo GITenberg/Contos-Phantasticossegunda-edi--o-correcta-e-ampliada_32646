@@ -1,0 +1,43 @@
+_repo: Contos-Phantasticossegunda-edi--o-correcta-e-ampliada_32646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Joaquim Teófilo Fernandes
+    - Braga, Joaquim Theophilo Fernandes
+    - Braga, Theophilo
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32646'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, Portuguese'
+- !lcsh 'Fiction'
+tableOfContents: As azas brancas -- O véo -- A estrella d'alva -- Lava de um craneo
+  -- Beijos por facadas -- A Ogiva sombria -- As aguias do norte -- O relogio de Strasburgo
+  -- Um erro no kalendario -- A adega de Funck -- Revelação de um caracter -- O sonho
+  de Esmeralda -- O Evangelho da desgraça -- Aquella mascara -- A rosa de Sáron --
+  Os quatro filhos d'Aymon.
+title: 'Contos Phantasticos
+
+  segunda edição correcta e ampliada'
+url: http://www.gutenberg.org/ebooks/32646
